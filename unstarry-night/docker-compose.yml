@@ -10,10 +10,7 @@ services:
       - "mc:/data"
     environment:
       EULA: "TRUE"
-    restart: always
-
-  mysql:
-    
+    restart: always    
 
 volumes:
   mc: {}
