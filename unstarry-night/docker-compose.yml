@@ -10,6 +10,7 @@ services:
       - "mc:/data"
     environment:
       EULA: "TRUE"
+      MAX_MEMORY: "2G"
     restart: always    
 
 volumes:
