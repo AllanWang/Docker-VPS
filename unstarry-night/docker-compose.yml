@@ -1,5 +1,4 @@
 version: '3'
-# Other docker-compose examples in /examples
 
 services:
   minecraft:
@@ -7,8 +6,8 @@ services:
     ports:
       - "25565:25565"
     volumes:
-      - ./volume:/data
+      - "./volume:/data"
     environment:
       EULA: "TRUE"
-      MAX_MEMORY: "2G"
+      MAX_MEMORY: "3G"
     restart: always    
