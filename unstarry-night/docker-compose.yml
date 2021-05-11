@@ -9,6 +9,16 @@ services:
       - "./data:/data"
     env_file: ".env"
     environment:
+      SERVER_NAME: "Unstarry Night"
       EULA: "TRUE"
       MAX_MEMORY: "3G"
+      VERSION: "1.16.5"
+      LEVEL: "unstarry_night"
+      SPIGET_RESOURCES: "8631" # Core Protect
+      ENFORCE_WHITELIST: "TRUE"
+      DEBUG: "TRUE"
     restart: always    
+
+  mysql:
+    image: mysql
+    env_file: ".env"
