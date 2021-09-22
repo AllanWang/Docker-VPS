@@ -18,7 +18,7 @@ ServerModSetup("1207269058")
 ServerModSetup("2074508776")
 -- Extra Equip Slots
 -- https://steamcommunity.com/sharedfiles/filedetails/?id=1818688368
-ServerModSetup("1271089343")
+ServerModSetup("1818688368")
 -- Your Skeleton Respawn
 -- https://steamcommunity.com/sharedfiles/filedetails/?id=1271089343
 ServerModSetup("1271089343")
