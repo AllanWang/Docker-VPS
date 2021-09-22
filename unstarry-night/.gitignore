@@ -1,3 +1,5 @@
 /.env
 /data
 /mysql
+/temp
+world.zip
