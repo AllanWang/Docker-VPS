@@ -15,7 +15,7 @@ To update mods, run `configs/migrate.sh`
 > Mods are installed per user, and are optional
 
 * [Action Queue Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=1608191708) - batch actions + easy grid planting; can replace geometry placement
-* [Advanced Tooltips [Updated]](https://steamcommunity.com/sharedfiles/filedetails/?id=2185752556) - maintained by me :) . Shows status info for inventory items.
+* [Advanced Tooltips [Tau]](https://steamcommunity.com/sharedfiles/filedetails/?id=2185752556) - maintained by me :) . Shows status info for inventory items.
 * [Combined Status](https://steamcommunity.com/sharedfiles/filedetails/?id=2185752556) - displays player info + world time info
 * [Craft Pot](https://steamcommunity.com/sharedfiles/filedetails/?id=2185752556) - shows output of crockpot prior to cooking
 * [Extended Map Icons](https://steamcommunity.com/sharedfiles/filedetails/?id=1157975551) - shows more icons on map
