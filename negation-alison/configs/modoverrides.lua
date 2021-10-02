@@ -13,44 +13,44 @@ return {
   ["workshop-786654500"] = {enabled = true},
   -- Simple Health Bar DST
   -- https://steamcommunity.com/sharedfiles/filedetails/?id=1207269058
-  ["workshop-1207269058"] = {enabled = true},
+  ["workshop-1207269058"] = {enabled = true} -- Watch comma
   -- Auto Door
   -- https://steamcommunity.com/sharedfiles/filedetails/?id=2074508776
-  ["workshop-2074508776"] = {enabled = true},
+  -- ["workshop-2074508776"] = {enabled = true},
   -- Extra Equip Slots
   -- https://steamcommunity.com/sharedfiles/filedetails/?id=1818688368
-  ["workshop-1818688368"] = {enabled = true},
+  -- ["workshop-1818688368"] = {enabled = true},
   -- Your Skeleton Respawn
   -- https://steamcommunity.com/sharedfiles/filedetails/?id=1271089343
-  ["workshop-1271089343"] = {enabled = true},
+  -- ["workshop-1271089343"] = {enabled = true},
 
   -- Tools Are Fuels
   -- https://steamcommunity.com/sharedfiles/filedetails/?id=599498678
-  ["workshop-599498678"] = {enabled = true},
+  -- ["workshop-599498678"] = {enabled = true},
 
   -- Better Ice Flingo
   -- https://steamcommunity.com/sharedfiles/filedetails/?id=866623002
-  ["workshop-866623002"] = {
-      enabled = true,
-      configuration_options = {
-          ["campfire"] = true,
-          ["firepit"] = true,
-          ["coldfire"] = true,
-          ["coldfirepit"] = true,
-          ["nightlight"] = true,
-          ["pigtorch"] = true,
-          ["obsidianfirepit"] = true,
-          ["chiminea"] = true,
-          ["sea_chiminea"] = true,
-          ["deluxe_firepit"] = true,
-          ["endo_firepit"] = true,
-          ["heat_star"] = true,
-          ["ice_star"] = true,
-          ["alwaysontikitorch"] = true,
-          ["firepit_obsidian"] = true,
-          ["tungsten_firepit"] = true,
-          ["musha_oven"] = true,
-          ["maxwelllight_p"] = true
-      }
-  }
+  -- ["workshop-866623002"] = {
+  --     enabled = true,
+  --     configuration_options = {
+  --         ["campfire"] = true,
+  --         ["firepit"] = true,
+  --         ["coldfire"] = true,
+  --         ["coldfirepit"] = true,
+  --         ["nightlight"] = true,
+  --         ["pigtorch"] = true,
+  --         ["obsidianfirepit"] = true,
+  --         ["chiminea"] = true,
+  --         ["sea_chiminea"] = true,
+  --         ["deluxe_firepit"] = true,
+  --         ["endo_firepit"] = true,
+  --         ["heat_star"] = true,
+  --         ["ice_star"] = true,
+  --         ["alwaysontikitorch"] = true,
+  --         ["firepit_obsidian"] = true,
+  --         ["tungsten_firepit"] = true,
+  --         ["musha_oven"] = true,
+  --         ["maxwelllight_p"] = true
+  --     }
+  -- }
 }
