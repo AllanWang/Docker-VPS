@@ -10,6 +10,9 @@ ServerModSetup("378160973")
 -- Finder Mod
 -- https://steamcommunity.com/sharedfiles/filedetails/?id=786654500
 ServerModSetup("786654500")
+-- DST Equipment Switcher
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=632087118
+ServerModSetup("632087118")
 -- Simple Health Bar DST
 -- https://steamcommunity.com/sharedfiles/filedetails/?id=1207269058
 ServerModSetup("1207269058")

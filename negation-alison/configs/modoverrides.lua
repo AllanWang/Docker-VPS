@@ -11,6 +11,9 @@ return {
   -- Finder Mod
   -- https://steamcommunity.com/sharedfiles/filedetails/?id=786654500
   ["workshop-786654500"] = {enabled = true},
+  -- DST Equipment Switcher
+  -- https://steamcommunity.com/sharedfiles/filedetails/?id=632087118
+  ["workshop-632087118"] = {enabled = true},
   -- Simple Health Bar DST
   -- https://steamcommunity.com/sharedfiles/filedetails/?id=1207269058
   ["workshop-1207269058"] = {enabled = true} -- Watch comma
