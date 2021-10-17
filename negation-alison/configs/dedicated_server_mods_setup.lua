@@ -16,6 +16,9 @@ ServerModSetup("632087118")
 -- Simple Health Bar DST
 -- https://steamcommunity.com/sharedfiles/filedetails/?id=1207269058
 ServerModSetup("1207269058")
+-- Show Bundle
+-- https://steamcommunity.com/sharedfiles/filedetails/?id=1111658995
+ServerModSetup("1111658995")
 -- Auto Door
 -- https://steamcommunity.com/sharedfiles/filedetails/?id=2074508776
 -- ServerModSetup("2074508776")

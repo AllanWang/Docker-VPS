@@ -16,7 +16,10 @@ return {
   ["workshop-632087118"] = {enabled = true},
   -- Simple Health Bar DST
   -- https://steamcommunity.com/sharedfiles/filedetails/?id=1207269058
-  ["workshop-1207269058"] = {enabled = true} -- Watch comma
+  ["workshop-1207269058"] = {enabled = true},
+  -- Show Bundle
+  -- https://steamcommunity.com/sharedfiles/filedetails/?id=1111658995
+  ["workshop-1111658995"] = {enabled = true} -- Watch comma
   -- Auto Door
   -- https://steamcommunity.com/sharedfiles/filedetails/?id=2074508776
   -- ["workshop-2074508776"] = {enabled = true},
