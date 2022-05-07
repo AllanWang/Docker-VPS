@@ -1,0 +1,21 @@
+version: "3"
+
+services: 
+  valheim: 
+    image: ghcr.io/lloesche/valheim-server
+    cap_add:
+      - sys_nice
+    volumes: 
+      - "./config:/config"
+      - "./data:/opt/valheim"
+    ports: 
+      - "2456-2457:2456-2457/udp"
+      - "9001:9001/tcp"
+    env_file: ".env"
+    environment:
+      SERVER_NAME: "Poof World"
+      WORLD_NAME: "Poof World"
+      SERVER_PUBLIC: false
+      BEPINEX: true
+    restart: always
+    stop_grace_period: 2m
