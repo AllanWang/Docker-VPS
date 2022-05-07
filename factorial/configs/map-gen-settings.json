@@ -25,8 +25,8 @@
     "iron-ore": {"frequency": 1, "size": 1, "richness": 2},
     "uranium-ore": {"frequency": 1, "size": 1, "richness": 2},
     "crude-oil": {"frequency": 1, "size": 1, "richness": 2},
-    "trees": {"frequency": 1, "size": 1, "richness": 2},
-    "enemy-base": {"frequency": 1, "size": 1, "richness": 2}
+    "trees": {"frequency": 1, "size": 1, "richness": 1},
+    "enemy-base": {"frequency": 1, "size": 1, "richness": 1}
   },
 
   "cliff_settings":
