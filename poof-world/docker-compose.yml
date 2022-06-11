@@ -19,5 +19,6 @@ services:
       TZ: "America/Vancouver"
       RESTART_CRON: "0 12 0 0 0"
       BEPINEX: "true"
+      DEBUG_REINSTALL_BEPINEX: "true"
     restart: always
     stop_grace_period: 2m
