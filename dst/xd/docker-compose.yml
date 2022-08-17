@@ -2,7 +2,6 @@ version: '3.5'
 services:
   dst-server:
      image: jamesits/dst-server:latest
-     user: asdfasdfvful:docker
      env_file: ".env"
      restart: "on-failure:5"
      ports:

@@ -13,7 +13,7 @@ services:
       EULA: "TRUE"
       TYPE: "PAPER"
       MAX_MEMORY: "3G"
-      VERSION: "1.16.5"
+      VERSION: "1.19"
       LEVEL: "unstarry_night"
       SPIGET_RESOURCES: "8631" # Core Protect
       ENFORCE_WHITELIST: "TRUE"
