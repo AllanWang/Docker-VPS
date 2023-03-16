@@ -25,3 +25,9 @@ To update mods, run `configs/migrate.sh`
 * [Status Announcement](https://steamcommunity.com/sharedfiles/filedetails/?id=343753877) - easily announce status or inventory items
 * [Quick Drop](https://steamcommunity.com/sharedfiles/filedetails/?id=873350047) - quickly drop stack or single item
 * [Zoom+](https://steamcommunity.com/sharedfiles/filedetails/?id=1781410139) - zoom out more
+
+## Testing Client Mods
+
+* [Wormhole Icons Updated](https://steamcommunity.com/sharedfiles/filedetails/?id=2831613121)
+* [Equipment Switcher](https://steamcommunity.com/sharedfiles/filedetails/?id=2841310635) - predictable equipment placement when switching
+* [Display Attack Range](https://steamcommunity.com/sharedfiles/filedetails/?id=2801297582&searchtext=display+attack)
