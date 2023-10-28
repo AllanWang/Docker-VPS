@@ -16,5 +16,5 @@ return {
   ["workshop-569043634"] = {enabled = true},
   -- Show Bundle
   -- https://steamcommunity.com/sharedfiles/filedetails/?id=1111658995
-  ["workshop-1111658995"] = {enabled = true} -- Watch comma
+  ["workshop-1111658995"] = {enabled = false} -- Watch comma
 }
