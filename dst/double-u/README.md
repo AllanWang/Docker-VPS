@@ -10,6 +10,8 @@ To update mods, run `configs/migrate.sh`
 
 ---
 
+Small world, with extra regrowth + touchstones
+
 ## Client Mods
 
 > Mods are installed per user, and are optional
