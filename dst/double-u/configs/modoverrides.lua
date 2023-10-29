@@ -14,7 +14,13 @@ return {
   -- Campfire Respawn
   -- https://steamcommunity.com/sharedfiles/filedetails/?id=569043634
   ["workshop-569043634"] = {enabled = true},
-  -- Show Bundle
+  -- Don't Drop Everything
+  -- https://steamcommunity.com/sharedfiles/filedetails/?id=661253977
+  ["workshop-661253977"] = {enabled = true},
+  -- Beefalo Widget
+  -- https://steamcommunity.com/sharedfiles/filedetails/?id=1852257480
+  ["workshop-1852257480"] = {enabled = true},
+  -- Show Bundle (crashes)
   -- https://steamcommunity.com/sharedfiles/filedetails/?id=1111658995
   ["workshop-1111658995"] = {enabled = false} -- Watch comma
 }
